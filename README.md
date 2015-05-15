@@ -5,10 +5,10 @@ Detect distinct wifi signals on raspberry pi
 - 2 Wifi dongles (mapped to specific interfaces, see init_wifi.sh)
 
 #Software Dependencies
-node
-python
-http://www.aircrack-ng.org/
-airodump-ng
+-node
+-python
+-http://www.aircrack-ng.org/
+-airodump-ng
 
 #To run
 On initial system boot you need to ma[
