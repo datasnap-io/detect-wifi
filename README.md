@@ -12,6 +12,7 @@ Detect distinct wifi signals on raspberry pi
 
 #To run
 On initial system boot you need to map dongles to interface names the following script does that assuming dongles are plugged in in the same configuration found on the prototype
+
 ```./init_wifi.sh
 
 ```sudo node scrape_wifi.js
